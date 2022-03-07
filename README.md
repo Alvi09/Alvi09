@@ -1,9 +1,11 @@
 # Hey! I'm Alvin 👋 
 
 ## I'm currently a third year at UC, Irvine studying Computer Science!
-- 🌱 I’m currently learning everything 🤣 but mainly web development!
+- 😄 Pronouns: He/Him/His
+- 🌱 I’m currently learning everything! but mainly web development!
 - 👯 I love working on personal projects and am willing to collaborate with others!
 - 🥅 2022 Goals: Learn more about web3!
+- 📫 Email: Lya13@uci.edu
 
 ### Connect with me:
 &nbsp;&nbsp;
