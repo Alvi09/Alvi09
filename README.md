@@ -7,8 +7,8 @@
 
 ### Connect with me:
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/alvin-ly-0368491b4/gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alvin-ly-0368491b4/gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
