@@ -7,7 +7,7 @@
 
 ### Connect with me:
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alvin-ly-0368491b4/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alvin-ly-0368491b4/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alvin-ly-0368491b4/)
 
 
