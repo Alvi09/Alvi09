@@ -1,4 +1,5 @@
 # Hey! My name's Alvin! 👋 
+![](https://github.com/user/banner.png)
 
 ## I'm currently a third year at UC, Irvine studying Computer Science!
 - 😄 Pronouns: He/Him/His
