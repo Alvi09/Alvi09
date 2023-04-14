@@ -2,7 +2,6 @@
 ![](https://github.com/Alvi09/Alvi09/blob/main/github-banner.JPG)
 
 ## I'm currently a fourth year at UC, Irvine studying Computer Science!
-- 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning more about web development!
 - 👯 I love working on personal projects and am willing to collaborate with others!
 - 🥅 2022 Goals: Learn more about web3!
