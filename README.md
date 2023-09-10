@@ -1,11 +1,10 @@
-# Hey! My name's Alvin! 👋 
+# Hi there 👋 My name is Alvin Ly! Welcome to my profile!
 ![](https://github.com/Alvi09/Alvi09/blob/main/github-banner.JPG)
 
-## I'm currently a fourth year at UC, Irvine studying Computer Science!
-- 🌱 I’m currently learning more about web development!
+## I just graduated from UC Irvine in 2023 earning my B.S in Computer Science!
+- 💻 I’m currently learning applications development and software testing with quality assurance.
 - 👯 I love working on personal projects and am willing to collaborate with others!
-- 🥅 2022 Goals: Learn more about web3!
-- 📫 Email: Lya13@uci.edu
+- 📫 Email: alvinly14@yahoo.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/alvin-ly-0368491b4/
 
 ### Languages and Tools:
