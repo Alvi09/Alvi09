@@ -4,7 +4,7 @@
 ## I just graduated from UC Irvine in 2023 earning my B.S in Computer Science!
 - 💻 I’m currently learning applications development and software testing with quality assurance.
 - 👯 I love working on personal projects and am willing to collaborate with others!
-- 📫 Email: alvinly14@yahoo.com
+- 📫 Email: alvinlybusiness@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/alvin-ly-0368491b4/
 
 ### Languages and Tools:
